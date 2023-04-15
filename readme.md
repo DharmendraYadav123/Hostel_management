@@ -1,13 +1,13 @@
-# hostelmangement
+# HOSTEL MANAGEMENT DBMS PROJECT
 
-This is hostel management system made with html, css, JavaScript for the frontend and backend using mysql, and php 
-Features of Project
-● Designed and developed a full-stack web application using HTML,
+## This is hostel management system made with html, css, JavaScript for the frontend and backend using mysql, and php 
+## Features of Project
+### ● Designed and developed a full-stack web application using HTML,
 CSS, JavaScript, PHP, and MySQL to provide detailed information
 about hostels.
-● Created a user-friendly interface to store visitor and student
+### ● Created a user-friendly interface to store visitor and student
 information, including room numbers and department details.
-● Implemented a food complaint system where students can register
+### ● Implemented a food complaint system where students can register
 complaints about the food using their unique student
 
 ![Screenshot 2023-04-16 001408](https://user-images.githubusercontent.com/130854258/232248147-3300b8c9-f841-4544-92d6-dfcf0b823aea.png)
